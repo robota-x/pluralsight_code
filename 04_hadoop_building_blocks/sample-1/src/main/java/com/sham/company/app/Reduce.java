@@ -1,4 +1,4 @@
-package wordcount;
+package com.sham.company.app;
 
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.LongWritable;
