@@ -20,7 +20,7 @@ public class Map extends Mapper<LongWritable, Text, Text, Text> {
             String occupation = dataList[8];
             Double weight = Double.parseDouble(dataList[24]);
 
-            // ugly stopgap
+            // ugly stopgap, will increse process time by a lot. Emitted ~15gb of data due to replication.
             for (int i=0; i<=weight; i++) {
                 context.write(new Text(age), new Text(occupation));
             }
