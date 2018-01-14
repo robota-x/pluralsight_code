@@ -1,10 +1,10 @@
 package com.sham.company.prob1;
 
+import com.google.gson.Gson;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Reducer;
 
 import java.io.IOException;
-import java.util.Collections;
 import java.util.HashMap;
 
 public class Reduce extends Reducer<Text, Text, Text, Text> {
@@ -26,8 +26,13 @@ public class Reduce extends Reducer<Text, Text, Text, Text> {
             occupationFrequency.put(occ, count + weight);
         }
 
-        String mostCommonOccupation = Collections.max(occupationFrequency.entrySet(), HashMap.Entry.comparingByValue()).getKey();
-        context.write(key, new Text(mostCommonOccupation));
+        // Most common occupation
+//        String mostCommonOccupation = Collections.max(occupationFrequency.entrySet(), HashMap.Entry.comparingByValue()).getKey();
+//        context.write(key, new Text(mostCommonOccupation));
+
+        // All unsorted occupations
+        Gson gson = new Gson();
+        context.write(key, new Text(gson.toJson(occupationFrequency.toString())));
     }
 
 }
