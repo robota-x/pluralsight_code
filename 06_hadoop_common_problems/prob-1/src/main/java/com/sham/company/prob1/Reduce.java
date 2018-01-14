@@ -14,13 +14,16 @@ public class Reduce extends Reducer<Text, Text, Text, Text> {
                        final Iterable<Text> values,
                        final Context context)
             throws IOException, InterruptedException {
-        HashMap<String, Integer> occupationFrequency = new HashMap<>();
+        HashMap<String, Float> occupationFrequency = new HashMap<>();
 
         for (Text occupation : values) {
-            String occ = occupation.toString();
-            Integer count = occupationFrequency.getOrDefault(occ, 0);
+            String[] inputValues = occupation.toString().split("§");
+            String occ = inputValues[0];
+            Float weight = Float.parseFloat(inputValues[1]);
 
-            occupationFrequency.put(occ, count + 1);
+            Float count = occupationFrequency.getOrDefault(occ, 0f);
+
+            occupationFrequency.put(occ, count + weight);
         }
 
         String mostCommonOccupation = Collections.max(occupationFrequency.entrySet(), HashMap.Entry.comparingByValue()).getKey();

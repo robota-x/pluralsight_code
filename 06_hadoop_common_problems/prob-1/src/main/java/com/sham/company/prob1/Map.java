@@ -6,6 +6,7 @@ import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Mapper;
 
 import java.io.IOException;
+import java.util.Objects;
 
 public class Map extends Mapper<LongWritable, Text, Text, Text> {
 
@@ -13,17 +14,18 @@ public class Map extends Mapper<LongWritable, Text, Text, Text> {
     public void map(LongWritable key, Text value, Context context)
             throws IOException, InterruptedException {
         String line = value.toString();
-        String[] dataList = line.split(",");
+        String[] dataList = line.split(", ");
 
         try {
             String age = dataList[0];
             String occupation = dataList[8];
-            Double weight = Double.parseDouble(dataList[24]);
+            Float weight = Float.parseFloat(dataList[24]);
 
-            // ugly stopgap, will increse process time by a lot. Emitted ~15gb of data due to replication.
-            for (int i=0; i<=weight; i++) {
-                context.write(new Text(age), new Text(occupation));
+            if (!Objects.equals(occupation, "Not in universe or children")) {
+                String outputValue =  String.format("%s§%f", occupation, weight);
+                context.write(new Text(age), new Text(outputValue));
             }
+
         } catch (Exception e) {
             // pass
         }
