@@ -7,28 +7,23 @@ import org.apache.hadoop.mapreduce.Reducer;
 import java.io.IOException;
 import java.util.HashMap;
 
-public class Reduce extends Reducer<Text, Text, Text, Text> {
+public class Reduce extends Reducer<Text, Tuple, Text, Text> {
 
     @Override
     public void reduce(final Text key,
-                       final Iterable<Text> values,
+                       final Iterable<Tuple> values,
                        final Context context)
             throws IOException, InterruptedException {
         HashMap<String, Float> occupationFrequency = new HashMap<>();
 
-        for (Text occupation : values) {
-            String[] inputValues = occupation.toString().split("§");
-            String occ = inputValues[0];
-            Float weight = Float.parseFloat(inputValues[1]);
+        for (Tuple occupation : values) {
+            String occupationName = occupation.getOccupation().toString();
+            Float occupationWeight = occupation.getWeight().get();
 
-            Float count = occupationFrequency.getOrDefault(occ, 0f);
+            Float count = occupationFrequency.getOrDefault(occupationName, 0f);
 
-            occupationFrequency.put(occ, count + weight);
+            occupationFrequency.put(occupationName, count + occupationWeight);
         }
-
-        // Most common occupation
-//        String mostCommonOccupation = Collections.max(occupationFrequency.entrySet(), HashMap.Entry.comparingByValue()).getKey();
-//        context.write(key, new Text(mostCommonOccupation));
 
         // All unsorted occupations
         Gson gson = new Gson();

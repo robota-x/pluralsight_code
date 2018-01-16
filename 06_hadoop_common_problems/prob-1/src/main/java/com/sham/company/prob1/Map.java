@@ -8,7 +8,7 @@ import org.apache.hadoop.mapreduce.Mapper;
 import java.io.IOException;
 import java.util.Objects;
 
-public class Map extends Mapper<LongWritable, Text, Text, Text> {
+public class Map extends Mapper<LongWritable, Text, Text, Tuple> {
 
     @Override
     public void map(LongWritable key, Text value, Context context)
@@ -22,8 +22,7 @@ public class Map extends Mapper<LongWritable, Text, Text, Text> {
             Float weight = Float.parseFloat(dataList[24]);
 
             if (!Objects.equals(occupation, "Not in universe or children")) {
-                String outputValue =  String.format("%s§%f", occupation, weight);
-                context.write(new Text(age), new Text(outputValue));
+                context.write(new Text(age), new Tuple(weight, occupation));
             }
 
         } catch (Exception e) {
