@@ -19,9 +19,11 @@ public class Main extends Configured implements Tool {
 
         job.setOutputKeyClass(Text.class);
         job.setOutputValueClass(Text.class);
+        job.setMapOutputValueClass(Tuple.class);
 
         job.setMapperClass(Map.class);
         job.setReducerClass(Reduce.class);
+
 
         Path inputFilePath = new Path(args[0]);
         Path outputFilePath = new Path(args[1]);
