@@ -10,6 +10,7 @@ This is a small repo to follow along and experiment on various pluralsight cours
 3. [Clean Architecture: Patterns, Practices, and Principles](https://app.pluralsight.com/library/courses/clean-architecture-patterns-practices-principles/table-of-contents)
 4. [The Building Blocks of Hadoop * HDFS, MapReduce, and YARN](https://app.pluralsight.com/library/courses/building-blocks-hadoop-hdfs-mapreduce-yarn/table-of-contents)
 5. [Play by Play: Crafting a Brand for Growth and Prosperity](https://app.pluralsight.com/library/courses/play-by-play-crafting-a-brand-for-growth-and-prosperity/table-of-contents)
+6. [The Information Security Big Picture](https://app.pluralsight.com/library/courses/information-security-big-picture/table-of-contents)
 
 ## TODO
 
@@ -42,7 +43,7 @@ This is a small repo to follow along and experiment on various pluralsight cours
   * [Getting Started with Azure Machine Learning](https://app.pluralsight.com/library/courses/azure-machine-learning-getting-started)
 
 * Security
-  * [The Information Security Big Picture](https://app.pluralsight.com/library/courses/information-security-big-picture/table-of-contents)
+  * &#10004; [The Information Security Big Picture](https://app.pluralsight.com/library/courses/information-security-big-picture/table-of-contents)
   * [Play by Play: Emerging Threats in IoT](https://app.pluralsight.com/library/courses/play-by-play-emerging-threats-in-iot/table-of-contents)
   * [Hack Yourself First: How to go on the Cyber-Offense](https://app.pluralsight.com/library/courses/hack-yourself-first/table-of-contents)
   * [Security for Hackers and Developers](https://app.pluralsight.com/paths/skills/security-for-hackers-and-developers)
