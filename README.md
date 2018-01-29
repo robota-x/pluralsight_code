@@ -46,7 +46,11 @@ This is a small repo to follow along and experiment on various pluralsight cours
   * [Play by Play: Emerging Threats in IoT](https://app.pluralsight.com/library/courses/play-by-play-emerging-threats-in-iot/table-of-contents)
   * [Hack Yourself First: How to go on the Cyber-Offense](https://app.pluralsight.com/library/courses/hack-yourself-first/table-of-contents)
   * [Security for Hackers and Developers](https://app.pluralsight.com/paths/skills/security-for-hackers-and-developers)
-
+  * [Play by Play: What You Need to Know About HTTPS Today](https://app.pluralsight.com/library/courses/play-by-play-https-what-you-need-know-about-today/table-of-contents)
+  * [Creating a Security-centric Culture](https://app.pluralsight.com/library/courses/security-culture-creating/table-of-contents)
+  * [Play by Play: Social Engineering with Troy Hunt and Lars Klint](https://app.pluralsight.com/library/courses/play-by-play-social-engineering/table-of-contents)
+  * [Play by Play: A Penetration Tester's Guide to Social Engineering](https://app.pluralsight.com/library/courses/play-by-play-penetration-testers-guide-social-engineering/table-of-contents)
+  
 * R
   * [Beginning Data Visualization with R](https://app.pluralsight.com/library/courses/r-data-visualization-beginner/table-of-contents)
   * [Exploratory Data Analysis with R](https://app.pluralsight.com/library/courses/r-data-analysis/table-of-contents)
