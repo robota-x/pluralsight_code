@@ -1,6 +1,5 @@
 package com.sham.company.prob1;
 
-import com.google.gson.Gson;
 import org.apache.hadoop.io.FloatWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Reducer;
@@ -28,13 +27,7 @@ public class Combine extends Reducer<Text, Tuple, Text, Tuple> {
         }
 
         for (Map.Entry<Text, Float> entry : occupationFrequency.entrySet()) {
-            Tuple aggregatedOccupations = new Tuple(entry.getKey(), new )
-            context.write(key, new Tuple(entry.getKey(), entry.getValue()));
+            context.write(key, new Tuple(new FloatWritable(entry.getValue()), entry.getKey()));
         }
-
-
     }
 }
-
-
-// tuple

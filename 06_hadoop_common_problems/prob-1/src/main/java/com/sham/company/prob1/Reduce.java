@@ -29,7 +29,6 @@ public class Reduce extends Reducer<Text, Tuple, Text, Text> {
         Gson gson = new Gson();
         context.write(key, new Text(gson.toJson(occupationFrequency.toString())));
     }
-
 }
 
 

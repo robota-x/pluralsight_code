@@ -20,13 +20,13 @@ public class Map extends Mapper<LongWritable, Text, Text, Tuple> {
             String age = dataList[0];
             String occupation = dataList[8];
             Float weight = Float.parseFloat(dataList[24]);
-
             if (!Objects.equals(occupation, "Not in universe or children")) {
                 context.write(new Text(age), new Tuple(weight, occupation));
             }
 
         } catch (Exception e) {
-            // pass
+            System.out.print("catch ");
+            System.out.print(e);
         }
     }
 }

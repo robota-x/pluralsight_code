@@ -63,6 +63,6 @@ public class Tuple implements WritableComparable<Tuple> {
 
     @Override
     public boolean equals(Object other) {
-        return other instanceof Tuple && this.occupation.equals(((Tuple) other).weight) && this.weight.equals(((Tuple) other).weight);
+        return other instanceof Tuple && this.occupation.equals(((Tuple) other).occupation) && this.weight.equals(((Tuple) other).weight);
     }
 }

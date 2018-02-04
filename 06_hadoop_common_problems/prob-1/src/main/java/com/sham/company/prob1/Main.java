@@ -23,6 +23,7 @@ public class Main extends Configured implements Tool {
 
         job.setMapperClass(Map.class);
         job.setReducerClass(Reduce.class);
+        job.setCombinerClass(Combine.class);
 
 
         Path inputFilePath = new Path(args[0]);
