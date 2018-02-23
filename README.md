@@ -12,6 +12,7 @@ This is a small repo to follow along and experiment on various pluralsight cours
 5. [Play by Play: Crafting a Brand for Growth and Prosperity](https://app.pluralsight.com/library/courses/play-by-play-crafting-a-brand-for-growth-and-prosperity/table-of-contents)
 6. [The Information Security Big Picture](https://app.pluralsight.com/library/courses/information-security-big-picture/table-of-contents)
 7. [Big Data: The Big Picture](https://app.pluralsight.com/library/courses/bigdata-bigpicture/table-of-contents)
+8. [Applying MapReduce to Common Data Problems](https://app.pluralsight.com/library/courses/mapreduce-applying-common-data-problems/table-of-contents)
 
 ## TODO
 
@@ -23,7 +24,8 @@ This is a small repo to follow along and experiment on various pluralsight cours
 * Data science, big data and trendy catchy names
   * &#10004; [Data Science: The Big Picture](https://app.pluralsight.com/library/courses/data-science-big-picture/table-of-contents)
   * &#10004; [The Building Blocks of Hadoop * HDFS, MapReduce, and YARN](https://app.pluralsight.com/library/courses/building-blocks-hadoop-hdfs-mapreduce-yarn/table-of-contents)
-  * [Applying MapReduce to Common Data Problems](https://app.pluralsight.com/library/courses/mapreduce-applying-common-data-problems/table-of-contents)
+  * &#10004; [Big Data: The Big Picture](https://app.pluralsight.com/library/courses/bigdata-bigpicture/table-of-contents)
+  * &#10004; [Applying MapReduce to Common Data Problems](https://app.pluralsight.com/library/courses/mapreduce-applying-common-data-problems/table-of-contents)
   * [Apache Spark Fundamentals](https://app.pluralsight.com/library/courses/apache-spark-fundamentals)
   * [Beginning Data Exploration and Analysis with Apache Spark](https://app.pluralsight.com/library/courses/apache-spark-beginning-data-exploration-analysis/table-of-contents)
   * [Big Data on Amazon Web Services](https://app.pluralsight.com/library/courses/big-data-amazon-web-services)
@@ -39,7 +41,6 @@ This is a small repo to follow along and experiment on various pluralsight cours
 * NLP/ML
   * &#10004; [Getting Started with Natural Language Processing with Python](https://app.pluralsight.com/library/courses/python-natural-language-processing/table-of-contents)
   * &#10004; [Understanding Machine Learning with Python](https://app.pluralsight.com/library/courses/python-understanding-machine-learning/table-of-contents)
-  * &#10004; [Big Data: The Big Picture](https://app.pluralsight.com/library/courses/bigdata-bigpicture/table-of-contents)
   * [Building Sentiment Analysis Systems in Python](https://app.pluralsight.com/library/courses/building-sentiment-analysis-systems-python/table-of-contents)
   * [Classification Using Tree Based Models](https://app.pluralsight.com/library/courses/tree-based-models-classification)
   * [Getting Started with Azure Machine Learning](https://app.pluralsight.com/library/courses/azure-machine-learning-getting-started)
