@@ -13,6 +13,7 @@ This is a small repo to follow along and experiment on various pluralsight cours
 6. [The Information Security Big Picture](https://app.pluralsight.com/library/courses/information-security-big-picture/table-of-contents)
 7. [Big Data: The Big Picture](https://app.pluralsight.com/library/courses/bigdata-bigpicture/table-of-contents)
 8. [Applying MapReduce to Common Data Problems](https://app.pluralsight.com/library/courses/mapreduce-applying-common-data-problems/table-of-contents)
+9. [AWS VPC Operations](https://app.pluralsight.com/library/courses/aws-vpc-operations/table-of-contents)
 
 ## TODO
 
