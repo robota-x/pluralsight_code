@@ -15,6 +15,8 @@ This is a small repo to follow along and experiment on various pluralsight cours
 8. [Applying MapReduce to Common Data Problems](https://app.pluralsight.com/library/courses/mapreduce-applying-common-data-problems/table-of-contents)
 9. [AWS VPC Operations](https://app.pluralsight.com/library/courses/aws-vpc-operations/table-of-contents)
 10. [Docker and Containers: The Big Picture](https://app.pluralsight.com/library/courses/docker-containers-big-picture/table-of-contents)
+11. [Play by Play: OWASP Top 10 2017](https://app.pluralsight.com/library/courses/play-by-play-owasp-top-ten-2017/table-of-contents)
+
 ## TODO
 
 * TensorFlow
@@ -55,6 +57,7 @@ This is a small repo to follow along and experiment on various pluralsight cours
   * [Creating a Security-centric Culture](https://app.pluralsight.com/library/courses/security-culture-creating/table-of-contents)
   * [Play by Play: Social Engineering with Troy Hunt and Lars Klint](https://app.pluralsight.com/library/courses/play-by-play-social-engineering/table-of-contents)
   * [Play by Play: A Penetration Tester's Guide to Social Engineering](https://app.pluralsight.com/library/courses/play-by-play-penetration-testers-guide-social-engineering/table-of-contents)
+  * &#10004; [Play by Play: OWASP Top 10 2017](https://app.pluralsight.com/library/courses/play-by-play-owasp-top-ten-2017/table-of-contents)
   
 * R
   * [Beginning Data Visualization with R](https://app.pluralsight.com/library/courses/r-data-visualization-beginner/table-of-contents)
