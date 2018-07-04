@@ -16,6 +16,7 @@ This is a small repo to follow along and experiment on various pluralsight cours
 9. [AWS VPC Operations](https://app.pluralsight.com/library/courses/aws-vpc-operations/table-of-contents)
 10. [Docker and Containers: The Big Picture](https://app.pluralsight.com/library/courses/docker-containers-big-picture/table-of-contents)
 11. [Play by Play: OWASP Top 10 2017](https://app.pluralsight.com/library/courses/play-by-play-owasp-top-ten-2017/table-of-contents)
+12. [UX Fundamentals](https://app.pluralsight.com/library/courses/ux-fundamentals-2426/table-of-contents)
 
 ## TODO
 
