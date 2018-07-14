@@ -17,6 +17,7 @@ This is a small repo to follow along and experiment on various pluralsight cours
 10. [Docker and Containers: The Big Picture](https://app.pluralsight.com/library/courses/docker-containers-big-picture/table-of-contents)
 11. [Play by Play: OWASP Top 10 2017](https://app.pluralsight.com/library/courses/play-by-play-owasp-top-ten-2017/table-of-contents)
 12. [UX Fundamentals](https://app.pluralsight.com/library/courses/ux-fundamentals-2426/table-of-contents)
+13. [Pandas Fundamentals](https://app.pluralsight.com/library/courses/pandas-fundamentals/table-of-contents)
 
 ## TODO
 
@@ -36,7 +37,8 @@ This is a small repo to follow along and experiment on various pluralsight cours
   * [Applying the Lambda Architecture with Spark, Kafka, and Cassandra](https://app.pluralsight.com/library/courses/spark-kafka-cassandra-applying-lambda-architecture/table-of-contents)
   * [Building an Enterprise Grade Distributed Online Analytics Platform](https://app.pluralsight.com/library/courses/building-enterprise-distributed-online-analytics-platform)
 
-* Data visualization
+* Data manipulation and visualization
+  * &#10004; [Pandas Fundamentals](https://app.pluralsight.com/library/courses/pandas-fundamentals/table-of-contents)
   * [Data Analysis Fundamentals with Tableau](https://app.pluralsight.com/library/courses/data-analysis-fundamentals-tableau/table-of-contents)
   * [D3: The Big Picture](https://app.pluralsight.com/library/courses/d3-big-picture/table-of-contents)
   * [D3.js Data Visualization Fundamentals](https://app.pluralsight.com/library/courses/d3js-data-visualization-fundamentals/table-of-contents)
@@ -51,6 +53,7 @@ This is a small repo to follow along and experiment on various pluralsight cours
 
 * Security
   * &#10004; [The Information Security Big Picture](https://app.pluralsight.com/library/courses/information-security-big-picture/table-of-contents)
+  * &#10004; [Play by Play: OWASP Top 10 2017](https://app.pluralsight.com/library/courses/play-by-play-owasp-top-ten-2017/table-of-contents)
   * [Play by Play: Emerging Threats in IoT](https://app.pluralsight.com/library/courses/play-by-play-emerging-threats-in-iot/table-of-contents)
   * [Hack Yourself First: How to go on the Cyber-Offense](https://app.pluralsight.com/library/courses/hack-yourself-first/table-of-contents)
   * [Security for Hackers and Developers](https://app.pluralsight.com/paths/skills/security-for-hackers-and-developers)
@@ -58,7 +61,6 @@ This is a small repo to follow along and experiment on various pluralsight cours
   * [Creating a Security-centric Culture](https://app.pluralsight.com/library/courses/security-culture-creating/table-of-contents)
   * [Play by Play: Social Engineering with Troy Hunt and Lars Klint](https://app.pluralsight.com/library/courses/play-by-play-social-engineering/table-of-contents)
   * [Play by Play: A Penetration Tester's Guide to Social Engineering](https://app.pluralsight.com/library/courses/play-by-play-penetration-testers-guide-social-engineering/table-of-contents)
-  * &#10004; [Play by Play: OWASP Top 10 2017](https://app.pluralsight.com/library/courses/play-by-play-owasp-top-ten-2017/table-of-contents)
   
 * R
   * [Beginning Data Visualization with R](https://app.pluralsight.com/library/courses/r-data-visualization-beginner/table-of-contents)
@@ -85,4 +87,7 @@ This is a small repo to follow along and experiment on various pluralsight cours
 * Mix
   * &#10004; [Clean Architecture: Patterns, Practices, and Principles](https://app.pluralsight.com/library/courses/clean-architecture-patterns-practices-principles/table-of-contents)
   * &#10004; [Play by Play: Crafting a Brand for Growth and Prosperity](https://app.pluralsight.com/library/courses/play-by-play-crafting-a-brand-for-growth-and-prosperity/table-of-contents)
+  * &#10004; [UX Fundamentals](https://app.pluralsight.com/library/courses/ux-fundamentals-2426/table-of-contents)
+  * &#10004; [AWS VPC Operations](https://app.pluralsight.com/library/courses/aws-vpc-operations/table-of-contents)
+  * &#10004; [Docker and Containers: The Big Picture](https://app.pluralsight.com/library/courses/docker-containers-big-picture/table-of-contents)
   * [Microservices Architecture](https://app.pluralsight.com/library/courses/microservices-architecture/table-of-contents)
