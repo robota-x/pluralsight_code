@@ -18,6 +18,7 @@ This is a small repo to follow along and experiment on various pluralsight cours
 11. [Play by Play: OWASP Top 10 2017](https://app.pluralsight.com/library/courses/play-by-play-owasp-top-ten-2017/table-of-contents)
 12. [UX Fundamentals](https://app.pluralsight.com/library/courses/ux-fundamentals-2426/table-of-contents)
 13. [Pandas Fundamentals](https://app.pluralsight.com/library/courses/pandas-fundamentals/table-of-contents)
+14. [Managing Scope Creep](https://app.pluralsight.com/player?course=managing-scope-creep&author=lars-klint&name=e9960b3d-9a48-4e83-83ad-cd230a495103&clip=5&mode=live)
 
 ## TODO
 
@@ -90,4 +91,5 @@ This is a small repo to follow along and experiment on various pluralsight cours
   * &#10004; [UX Fundamentals](https://app.pluralsight.com/library/courses/ux-fundamentals-2426/table-of-contents)
   * &#10004; [AWS VPC Operations](https://app.pluralsight.com/library/courses/aws-vpc-operations/table-of-contents)
   * &#10004; [Docker and Containers: The Big Picture](https://app.pluralsight.com/library/courses/docker-containers-big-picture/table-of-contents)
-  * [Microservices Architecture](https://app.pluralsight.com/library/courses/microservices-architecture/table-of-contents)
+  * &#10004; [Microservices Architecture](https://app.pluralsight.com/library/courses/microservices-architecture/table-of-contents)
+  14. [Managing Scope Creep](https://app.pluralsight.com/player?course=managing-scope-creep&author=lars-klint&name=e9960b3d-9a48-4e83-83ad-cd230a495103&clip=5&mode=live)
