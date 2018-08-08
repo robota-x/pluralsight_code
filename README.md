@@ -19,6 +19,7 @@ This is a small repo to follow along and experiment on various pluralsight cours
 12. [UX Fundamentals](https://app.pluralsight.com/library/courses/ux-fundamentals-2426/table-of-contents)
 13. [Pandas Fundamentals](https://app.pluralsight.com/library/courses/pandas-fundamentals/table-of-contents)
 14. [Managing Scope Creep](https://app.pluralsight.com/player?course=managing-scope-creep&author=lars-klint&name=e9960b3d-9a48-4e83-83ad-cd230a495103&clip=5&mode=live)
+15. [Business Dashboard Fundamentals](https://app.pluralsight.com/library/courses/business-dashboard-fundamentals/table-of-contents)
 
 ## TODO
 
@@ -40,6 +41,7 @@ This is a small repo to follow along and experiment on various pluralsight cours
 
 * Data manipulation and visualization
   * &#10004; [Pandas Fundamentals](https://app.pluralsight.com/library/courses/pandas-fundamentals/table-of-contents)
+  * &#10004; [Business Dashboard Fundamentals](https://app.pluralsight.com/library/courses/business-dashboard-fundamentals/table-of-contents)
   * [Data Analysis Fundamentals with Tableau](https://app.pluralsight.com/library/courses/data-analysis-fundamentals-tableau/table-of-contents)
   * [D3: The Big Picture](https://app.pluralsight.com/library/courses/d3-big-picture/table-of-contents)
   * [D3.js Data Visualization Fundamentals](https://app.pluralsight.com/library/courses/d3js-data-visualization-fundamentals/table-of-contents)
