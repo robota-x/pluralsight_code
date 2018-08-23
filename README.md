@@ -20,6 +20,7 @@ This is a small repo to follow along and experiment on various pluralsight cours
 13. [Pandas Fundamentals](https://app.pluralsight.com/library/courses/pandas-fundamentals/table-of-contents)
 14. [Managing Scope Creep](https://app.pluralsight.com/player?course=managing-scope-creep&author=lars-klint&name=e9960b3d-9a48-4e83-83ad-cd230a495103&clip=5&mode=live)
 15. [Business Dashboard Fundamentals](https://app.pluralsight.com/library/courses/business-dashboard-fundamentals/table-of-contents)
+16. [Building Sentiment Analysis Systems in Python](https://app.pluralsight.com/library/courses/building-sentiment-analysis-systems-python/table-of-contents)
 
 ## TODO
 
@@ -46,11 +47,12 @@ This is a small repo to follow along and experiment on various pluralsight cours
   * [D3: The Big Picture](https://app.pluralsight.com/library/courses/d3-big-picture/table-of-contents)
   * [D3.js Data Visualization Fundamentals](https://app.pluralsight.com/library/courses/d3js-data-visualization-fundamentals/table-of-contents)
   * [Introduction to Data Visualization with Python](https://app.pluralsight.com/library/courses/data-visualization-with-python-introduction/table-of-contents)
+  * [Data Analytics: Hands On](https://app.pluralsight.com/library/courses/data-analytics-hands-on/table-of-contents)
 
 * NLP/ML
   * &#10004; [Getting Started with Natural Language Processing with Python](https://app.pluralsight.com/library/courses/python-natural-language-processing/table-of-contents)
   * &#10004; [Understanding Machine Learning with Python](https://app.pluralsight.com/library/courses/python-understanding-machine-learning/table-of-contents)
-  * [Building Sentiment Analysis Systems in Python](https://app.pluralsight.com/library/courses/building-sentiment-analysis-systems-python/table-of-contents)
+  * &#10004; [Building Sentiment Analysis Systems in Python](https://app.pluralsight.com/library/courses/building-sentiment-analysis-systems-python/table-of-contents)
   * [Classification Using Tree Based Models](https://app.pluralsight.com/library/courses/tree-based-models-classification)
   * [Getting Started with Azure Machine Learning](https://app.pluralsight.com/library/courses/azure-machine-learning-getting-started)
 
@@ -64,7 +66,7 @@ This is a small repo to follow along and experiment on various pluralsight cours
   * [Creating a Security-centric Culture](https://app.pluralsight.com/library/courses/security-culture-creating/table-of-contents)
   * [Play by Play: Social Engineering with Troy Hunt and Lars Klint](https://app.pluralsight.com/library/courses/play-by-play-social-engineering/table-of-contents)
   * [Play by Play: A Penetration Tester's Guide to Social Engineering](https://app.pluralsight.com/library/courses/play-by-play-penetration-testers-guide-social-engineering/table-of-contents)
-  
+
 * R
   * [Beginning Data Visualization with R](https://app.pluralsight.com/library/courses/r-data-visualization-beginner/table-of-contents)
   * [Exploratory Data Analysis with R](https://app.pluralsight.com/library/courses/r-data-analysis/table-of-contents)
@@ -87,11 +89,20 @@ This is a small repo to follow along and experiment on various pluralsight cours
   * [Understanding and Applying Financial Risk Modeling Techniques](https://app.pluralsight.com/library/courses/financial-risk-modeling-techniques/discussion)
   * [Working with Graph Algorithms in Python](https://app.pluralsight.com/library/courses/graph-algorithms-python/table-of-contents)
 
+* Containers & Friends
+  * &#10004; [Docker and Containers: The Big Picture](https://app.pluralsight.com/library/courses/docker-containers-big-picture/table-of-contents)
+  * [Getting Started with Docker](https://app.pluralsight.com/library/courses/docker-getting-started/table-of-contents)
+  * [Docker Deep Dive](https://app.pluralsight.com/library/courses/docker-deep-dive-update/table-of-contents)
+  * [Getting Started with Kubernetes](https://app.pluralsight.com/library/courses/getting-started-kubernetes/table-of-contents)
+
 * Mix
   * &#10004; [Clean Architecture: Patterns, Practices, and Principles](https://app.pluralsight.com/library/courses/clean-architecture-patterns-practices-principles/table-of-contents)
   * &#10004; [Play by Play: Crafting a Brand for Growth and Prosperity](https://app.pluralsight.com/library/courses/play-by-play-crafting-a-brand-for-growth-and-prosperity/table-of-contents)
   * &#10004; [UX Fundamentals](https://app.pluralsight.com/library/courses/ux-fundamentals-2426/table-of-contents)
   * &#10004; [AWS VPC Operations](https://app.pluralsight.com/library/courses/aws-vpc-operations/table-of-contents)
-  * &#10004; [Docker and Containers: The Big Picture](https://app.pluralsight.com/library/courses/docker-containers-big-picture/table-of-contents)
+
   * &#10004; [Microservices Architecture](https://app.pluralsight.com/library/courses/microservices-architecture/table-of-contents)
   * &#10004; [Managing Scope Creep](https://app.pluralsight.com/player?course=managing-scope-creep&author=lars-klint&name=e9960b3d-9a48-4e83-83ad-cd230a495103&clip=5&mode=live)
+  * [Relational Database Design](https://app.pluralsight.com/library/courses/relational-database-design/table-of-contents)
+  * [Building Applications with React and Redux in ES6](https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents)
+  * [Cassandra for Developers](https://app.pluralsight.com/library/courses/cassandra-developers/table-of-contents)
