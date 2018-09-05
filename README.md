@@ -21,6 +21,7 @@ This is a small repo to follow along and experiment on various pluralsight cours
 14. [Managing Scope Creep](https://app.pluralsight.com/player?course=managing-scope-creep&author=lars-klint&name=e9960b3d-9a48-4e83-83ad-cd230a495103&clip=5&mode=live)
 15. [Business Dashboard Fundamentals](https://app.pluralsight.com/library/courses/business-dashboard-fundamentals/table-of-contents)
 16. [Building Sentiment Analysis Systems in Python](https://app.pluralsight.com/library/courses/building-sentiment-analysis-systems-python/table-of-contents)
+17. [Deep Learning with Keras](https://app.pluralsight.com/library/courses/keras-deep-learning/table-of-contents)
 
 ## TODO
 
@@ -53,6 +54,7 @@ This is a small repo to follow along and experiment on various pluralsight cours
   * &#10004; [Getting Started with Natural Language Processing with Python](https://app.pluralsight.com/library/courses/python-natural-language-processing/table-of-contents)
   * &#10004; [Understanding Machine Learning with Python](https://app.pluralsight.com/library/courses/python-understanding-machine-learning/table-of-contents)
   * &#10004; [Building Sentiment Analysis Systems in Python](https://app.pluralsight.com/library/courses/building-sentiment-analysis-systems-python/table-of-contents)
+  * &#10004; [Deep Learning with Keras](https://app.pluralsight.com/library/courses/keras-deep-learning/table-of-contents)
   * [Classification Using Tree Based Models](https://app.pluralsight.com/library/courses/tree-based-models-classification)
   * [Getting Started with Azure Machine Learning](https://app.pluralsight.com/library/courses/azure-machine-learning-getting-started)
 
