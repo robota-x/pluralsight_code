@@ -76,7 +76,7 @@ This is a small repo to follow along and experiment on various pluralsight cours
   * [Mastering Data Visualization with R](https://app.pluralsight.com/library/courses/r-mastering-data-visualization/table-of-contents)
 
 * Scala
-  * &#10008 [Thinking Functionally in Scala](https://app.pluralsight.com/library/courses/scala-thinking-functionally/table-of-contents)
+  * &#10008; [Thinking Functionally in Scala](https://app.pluralsight.com/library/courses/scala-thinking-functionally/table-of-contents)
   * [Scala: Getting Started](https://app.pluralsight.com/library/courses/scala-getting-started/table-of-contents)
 
 * Go
