@@ -22,6 +22,8 @@ This is a small repo to follow along and experiment on various pluralsight cours
 15. [Business Dashboard Fundamentals](https://app.pluralsight.com/library/courses/business-dashboard-fundamentals/table-of-contents)
 16. [Building Sentiment Analysis Systems in Python](https://app.pluralsight.com/library/courses/building-sentiment-analysis-systems-python/table-of-contents)
 17. [Deep Learning with Keras](https://app.pluralsight.com/library/courses/keras-deep-learning/table-of-contents)
+18. &#10008; [Scala: Getting Started](https://app.pluralsight.com/library/courses/scala-getting-started/table-of-contents)
+19. [Scala: The Big Picture](https://app.pluralsight.com/library/courses/scala-big-picture/table-of-contents)
 
 ## TODO
 
@@ -77,8 +79,8 @@ This is a small repo to follow along and experiment on various pluralsight cours
 
 * Scala
   * &#10008; [Thinking Functionally in Scala](https://app.pluralsight.com/library/courses/scala-thinking-functionally/table-of-contents)
-  * [Scala: Getting Started](https://app.pluralsight.com/library/courses/scala-getting-started/table-of-contents)
-
+  * &#10008; [Scala: Getting Started](https://app.pluralsight.com/library/courses/scala-getting-started/table-of-contents)
+  * &#10004; [Scala: The Big Picture](https://app.pluralsight.com/library/courses/scala-big-picture/table-of-contents)
 * Go
   * [Go Fundamentals](https://app.pluralsight.com/library/courses/go-fundamentals/table-of-contents)
   * [Building Web Applications with the AWS SDK for Go](https://app.pluralsight.com/library/courses/aws-sdk-go-building-web-applications/table-of-contents)
