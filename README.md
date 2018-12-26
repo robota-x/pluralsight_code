@@ -24,6 +24,7 @@ This is a small repo to follow along and experiment on various pluralsight cours
 17. [Deep Learning with Keras](https://app.pluralsight.com/library/courses/keras-deep-learning/table-of-contents)
 18. &#10008; [Scala: Getting Started](https://app.pluralsight.com/library/courses/scala-getting-started/table-of-contents)
 19. [Scala: The Big Picture](https://app.pluralsight.com/library/courses/scala-big-picture/table-of-contents)
+20. &#10008; [Handling Fast Data with Apache Spark SQL and Streaming](https://app.pluralsight.com/library/courses/apache-spark-sql-fast-data-handling-streaming/table-of-contents)
 
 ## TODO
 
